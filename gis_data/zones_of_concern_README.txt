@@ -1,0 +1,1 @@
+GIS layers (KMZ, SHP, GeoJSON) will include vegetation loss and zoning overlays for all four lakes.
